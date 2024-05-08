@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D1Y9vj6sAO2OFGoqqIK+7wORFLiElSetQYyGeWRRsNEJ8+D2YAFYruo+M0EmJXnK/WozZnbFz/6j1JBWtzATBw==",
+  "dgSpecHash": "j76OJM/5M8KBUxKi56ZkhF0+/Me8jWgSYYK1ZBo2hj3/0ShN18bbsSfxZv1POPVJk3WiPuJehc3Aubvrv+BsmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\adityaraj\\Desktop\\Design Pattern\\DevopsDemo\\DevopsDemo.test\\DevopsDemo.test.csproj",
   "expectedPackageFiles": [
@@ -23,10 +23,7 @@
     "C:\\Users\\adityaraj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\adityaraj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\adityaraj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "C:\\Users\\adityaraj\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
-    "C:\\Users\\adityaraj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\adityaraj\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\adityaraj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "C:\\Users\\adityaraj\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
