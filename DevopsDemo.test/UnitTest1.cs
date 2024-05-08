@@ -2,6 +2,7 @@ using DevopsDemo.Controllers;
 
 namespace DevopsDemo.test
 {
+    [TestFixture]
     public class Tests
     {
         [Test]
