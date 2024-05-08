@@ -3,7 +3,7 @@ using DevopsDemo.Controllers;
 namespace DevopsDemo.test
 {
     [TestFixture]
-    public class Tests
+    public class WeatherForecastControllerTests
     {
         [Test]
         public void Get()
